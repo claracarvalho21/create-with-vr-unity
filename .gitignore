@@ -1,0 +1,32 @@
+# Pastas geradas pelo Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+
+# Arquivos de configuração do Visual Studio
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+
+# Arquivos do Rider IDE
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Pacotes do Unity Cache
+Packages/packages-lock.json
