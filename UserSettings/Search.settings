@@ -2,14 +2,14 @@ trackSelection = true
 refreshSearchWindowsInPlayMode = false
 pickerAdvancedUI = false
 fetchPreview = true
-defaultFlags = 0
+defaultFlags = 264
 keepOpen = true
 queryFolder = "Assets"
 onBoardingDoNotAskAgain = true
 showPackageIndexes = false
 showStatusBar = false
 scopes = {
-	"picker_window_position_offset.075BCD15" = "-462;146;352;550"
+	"picker_window_position_offset.075BCD15" = "-231;146;404;550"
 	"picker_visibility_flags.075BCD15" = "264"
 	"picker_item_size.075BCD15" = "96"
 	"picker_inspector.075BCD15" = "0"
@@ -69,6 +69,7 @@ providers = {
 objectSelectors = {
 }
 recentSearches = [
+	" Match Orientation como Target Up And Forward"
 ]
 searchItemFavorites = [
 ]
