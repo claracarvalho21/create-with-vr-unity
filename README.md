@@ -50,6 +50,13 @@ Este projeto introduz conceitos essenciais de VR dentro do Unity, incluindo:
 
 ## 📸 Capturas de Tela
 
+<img width="1416" height="902" alt="Captura de tela 2025-10-29 234429" src="https://github.com/user-attachments/assets/5587a415-c175-42e2-8f0e-762fea72c0de" />
+<img width="1416" height="798" alt="Captura de tela 2025-10-29 234351" src="https://github.com/user-attachments/assets/351276ba-e6ad-410a-8e69-fd2d22db40db" />
+<img width="1419" height="817" alt="Captura de tela 2025-10-29 234158" src="https://github.com/user-attachments/assets/ff79dc51-9ad8-45b7-85a6-f0522ed2080d" />
+<img width="1415" height="793" alt="Captura de tela 2025-10-29 234049" src="https://github.com/user-attachments/assets/b5750d5b-db9b-4b26-941b-1f88b97bc560" />
+<img width="1414" height="796" alt="Captura de tela 2025-10-29 234019" src="https://github.com/user-attachments/assets/03030719-6e18-49bf-94df-56d2c72614e4" />
+<img width="1484" height="831" alt="Captura de tela 2025-10-29 232403" src="https://github.com/user-attachments/assets/2d8bd729-1bd9-4fd4-bf41-b3fcea63e1bb" />
+<img width="1919" height="1026" alt="Captura de tela 2025-10-29 232328" src="https://github.com/user-attachments/assets/8750819a-9853-4c49-ab60-57756802528e" />
 
 ---
 
@@ -74,5 +81,5 @@ Durante o desenvolvimento, foram abordados:
 ## 🪪 Licença
 
 Este projeto é apenas para fins educacionais.
-Todo o conteúdo e materiais do curso pertencem à **Unity Technologies**.
+Todo os materiais do curso pertencem à **Unity Technologies**.
 
